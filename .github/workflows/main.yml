@@ -3,8 +3,8 @@
   # uses: localstack/localstack-github-actions-login@55cb73dc128e0bc83217ca742569d28579e3c064
   uses: localstack/localstack-github-actions-login@v0.1.0
   with:
-    # Username
+    # wixpartner01@gmail.com
     email: 
-    # Password
+    # I@mS7even
     password: 
           

@@ -1,0 +1,10 @@
+#!/bin/bash
+chmod +x setup.sh
+pip install llama-stack
+pip install llama-stack -U
+# List models (optional, for user info)
+llama model list
+llama model list --show-all
+# Download a model (edit MODEL_ID as needed)
+# llama model download --source meta --model-id MODEL_ID
+chmod +x setup.sh
